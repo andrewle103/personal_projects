@@ -20,7 +20,7 @@
 			<TechMovementChanges>
 				<TechMovementChange>
 					<PrereqTech>TECH_ENGINEERING</PrereqTech>
-					<iMovementChange>-10</iMovementChange>
+					<iMovementChange>0</iMovementChange>
 				</TechMovementChange>
 			</TechMovementChanges>
 			<Button>Art/Interface/Buttons/Builds/BuildRoad.dds</Button>
